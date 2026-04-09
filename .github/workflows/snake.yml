@@ -5,8 +5,11 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,11 +19,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
-
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
