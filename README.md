@@ -69,9 +69,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalroy2574&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vishalroy2574&show_icons=true&theme=dracula&hide_border=true" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalroy2574&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vishalroy2574&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 ---
