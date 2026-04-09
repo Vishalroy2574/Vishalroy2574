@@ -43,26 +43,55 @@
 
 <h2 align="center">📌 Projects</h2>
 
+
+---
+
 ### 🛣️ Multi-Model Road Damage Detection  
-🔗 https://multi-model-road-damage-detection-1.onrender.com/  
-- Full-stack ML-powered app  
-- Real-time damage detection  
-- Node.js + Express backend  
+🔗 https://multi-model-road-damage-detection-1.onrender.com/
+
+🚀 A full-stack **machine learning-powered web application** that detects road damage using multiple trained models.
+
+💡 **Key Features:**
+- 📸 Upload images for real-time road damage detection  
+- 🤖 Ensemble ML models for improved prediction accuracy  
+- ⚡ Fast backend using Node.js & Express  
+- 🌐 Deployed and accessible online  
+
+🛠️ **Tech Stack:**  
+`Node.js` `Express` `Machine Learning` `JavaScript`
 
 ---
 
-### 🏠 UrbanNivas – Rental Platform  
-🔗 https://urbannivas-8.onrender.com/  
-- MERN stack project  
-- Auth + RBAC  
-- Cloudinary + Maps integration  
+### 🏠 UrbanNivas – Rental Listing Platform  
+🔗 https://urbannivas-8.onrender.com/
+
+🏡 A complete **MERN stack rental platform** for property listing and management.
+
+💡 **Key Features:**
+- 🔐 Secure authentication & role-based access control (RBAC)  
+- 🏘️ CRUD operations for property listings  
+- ☁️ Image upload using Cloudinary + Multer  
+- 🗺️ Interactive maps with Leaflet.js  
+
+🛠️ **Tech Stack:**  
+`MongoDB` `Express` `React` `Node.js` `Cloudinary`
 
 ---
 
-### 🌐 LocalPro – Service UI  
-🔗 https://local-pro-sage.vercel.app/  
-- Responsive frontend  
-- Clean modern UI  
+### 🌐 LocalPro – Service Platform UI  
+🔗 https://local-pro-sage.vercel.app/
+
+🎨 A modern and responsive **frontend UI for service-based platform**.
+
+💡 **Key Features:**
+- 📱 Fully responsive design  
+- 🎯 Clean and user-friendly interface  
+- ⚡ Optimized performance and UX  
+
+🛠️ **Tech Stack:**  
+`HTML` `CSS` `JavaScript`
+
+
 
 ---
 
